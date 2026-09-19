@@ -2,77 +2,77 @@ const musicData = [
   {
     id: 1,
     number: "01",
-    title: "Midnight Drive",
-    mood: "NIGHT / CHILL",
+    title: "Yuvan",
+    mood: "Night drugs",
     description:
-      "A smooth late-night track made for empty roads and city lights.",
-    image: "/images/midnight-drive.jpg",
+      "sarvamum yuvan",
+    image: "/images/Yuvan.jpg",
     accent: "#8B9CFF",
   },
 
   {
     id: 2,
     number: "02",
-    title: "Afterglow",
-    mood: "DREAMY",
+    title: "Harris",
+    mood: "Live in dream",
     description:
-      "Soft melodies and warm sounds for quiet moments.",
-    image: "/images/afterglow.jpg",
+      "Music killer",
+    image: "/images/Harris.jpg",
     accent: "#FF9A6C",
   },
 
   {
     id: 3,
     number: "03",
-    title: "Lost in Echoes",
+    title: "Ar Rahman",
     mood: "EMOTIONAL",
     description:
-      "A deep atmospheric track about memories that stay with us.",
-    image: "/images/lost-in-echoes.jpg",
+      "A deep Emotinal memories that stay with us.",
+    image: "/images/rahman.jpg",
     accent: "#7B9FC8",
   },
 
   {
     id: 4,
     number: "04",
-    title: "Neon Hearts",
-    mood: "ENERGETIC",
+    title: "Sai Abhyankkar",
+    mood: "GENZ",
     description:
-      "Electronic beats with a futuristic nightlife feeling.",
-    image: "/images/neon-hearts.jpg",
+      "The new Genz creater",
+    image: "/images/sai",
     accent: "#FF4FA3",
   },
 
   {
     id: 5,
     number: "05",
-    title: "Slow Motion",
-    mood: "ROMANTIC",
+    title: "Hiphop Tamizha",
+    mood: "Fast music",
     description:
-      "A mellow sound for moments that feel frozen in time.",
-    image: "/images/slow-motion.jpg",
+      "A sound That kill your heart.",
+    image: "/images/hiphop.webp",
     accent: "#E8A56B",
   },
 
   {
     id: 6,
     number: "06",
-    title: "City Lights",
-    mood: "URBAN",
+    title: "gv prakash",
+    mood: "underater",
     description:
       "Modern beats inspired by the energy of a sleepless city.",
-    image: "/images/city-lights.jpg",
+    image: "/images/GV.avif",
     accent: "#4DA6FF",
   },
 
   {
     id: 7,
     number: "07",
-    title: "After Hours",
-    mood: "DARK / MOODY",
+    title: "Anirudh Ravichander",
+    mood: "The king maker",
     description:
-      "A cinematic night track with deep bass and atmospheric vocals.",
-    image: "/images/after-hours.jpg",
+      "A king of Tamil music ",
+    image: "/images/Anirudh.jpg",
     accent: "#B56CFF",
   },
 ];

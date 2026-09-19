@@ -9,7 +9,7 @@ const MusicAccordion = () => {
     <main className="music-page">
       <div className="music-header">
         <span>MUSIC</span>
-        <span>07 TRACKS</span>
+        <span>indian music</span>
       </div>
 
       <section className="music-accordion">
